@@ -136,10 +136,10 @@ JBB.ONE provides the easiest-to-use game engine ever on blockchain. You may easi
 ### How to create a game
 Traditional game maker is like describe an image in your mind to someone else with a foreign language and ask them to re-portrait, while an easy-to-use visualized game maker helps you to express what you have in mind. With ONE World game engine, users can see every potential changes in game in visualized window that their operations bring about, so they no longer need to check for bugs, seek community helps and waste time for unnecessary cause.
 Not only that the game engine is incredibly easy to use but the game made out of it is inherited distributed on chain, meaning that game developers no longer need extra works to make the game a blockchain game.
-You may start to create a game with a JBB account. 
-How to use the game engine:
-https://avg.jbb.one/#/en/avg/tech/category
-How to upload game:
+You may start to create a game with a JBB account.   
+How to use the game engine:  
+https://avg.jbb.one/#/en/avg/tech/category  
+How to upload game:  
 https://avg.jbb.one/#/avg/tech/category/1136
 
 ### How to share game material
