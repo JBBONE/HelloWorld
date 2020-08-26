@@ -241,12 +241,12 @@ Just to keep it in mind that the more fulfilled the smart contract is the better
 ## Update Log 
 
 ## Major Feature Under Development
--GAN support
--Game maker advanced mode 
--Game maker RPG extension
--GAN support cross-chain backdoor
--Token exchange platform which covers the whole ecosystem.
--Crowdfunding channel
+-GAN support  
+-Game maker advanced mode   
+-Game maker RPG extension   
+-GAN support cross-chain backdoor  
+-Token exchange platform which covers the whole ecosystem  
+-Crowdfunding channel  
 
 # How to Get Involved
 To get involved with DS ecosystem, you may join JBB.ONE community or any DS you feel interested in; you may start your own DS; you may provide plugins for all DS users; or, you can join the dev team to plan for DS' future.
