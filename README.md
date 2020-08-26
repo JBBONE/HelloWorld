@@ -253,24 +253,24 @@ To get involved with DS ecosystem, you may join JBB.ONE community or any DS you 
 
 ## Join Our Community
 ### ● Join JBB.ONE
-You may engage with the community with different level of involvements starting with registering member. By joining membership, users can benefit from the sitewide incentive system. The specific membership system reference may see here:https://www.jbb.one/en/baike/word/root?columnId=3.
-It is worth mentioning that the incentive system is particularly in favor of content creators.
-You may also strength the connections with the community by joining forum, discord, and WeChat group. 
-The official channel are listed below: 
-Forum site: https://www.jbb.one/en/forum
-Discord:https://discord.gg/S9zPAsR
-Your advices and suggestions are indispensable to us, and you are always welcome to discuss with us on Github, or email us on info@jbb.one.
+You may engage with the community with different level of involvements starting with registering member. By joining membership, users can benefit from the sitewide incentive system. The specific membership system reference may see here:https://www.jbb.one/en/baike/word/root?columnId=3.  
+It is worth mentioning that the incentive system is particularly in favor of content creators.  
+You may also strength the connections with the community by joining forum, discord, and WeChat group.   
+The official channel are listed below:   
+Forum site: https://www.jbb.one/en/forum  
+Discord:https://discord.gg/S9zPAsR  
+Your advices and suggestions are indispensable to us, and you are always welcome to discuss with us on Github, or email us on info@jbb.one.  
 
 ### ● Join DS Ecosystem
 1. Start your own DS 
-It's unfair to assert that what you can do with DS OS just by checking JBB.ONE projects. There are plenty of projects, organizations, associations and business on DS await for your exploration. You can check the contents they created, rules they set up, and how they managed to run autonomy to have a clearer sense of DS. 
+It's unfair to assert that what you can do with DS OS just by checking JBB.ONE projects. There are plenty of projects, organizations, associations and business on DS await for your exploration. You can check the contents they created, rules they set up, and how they managed to run autonomy to have a clearer sense of DS.   
 If you don't find any DSs satisfy your needs, or you just want to start another DS anyway, you are more than welcome to create your own DS.   
-2. Join DS that is already established to contribute.
-As DS is all about autonomy and fairness, it really does not matter much that "who" runs this DS. As long as there is one particular DS group satisfy your need of interest and criteria for proper rules, you can always join one to manage this DS together with other members.
+2. Join DS that is already established to contribute.  
+As DS is all about autonomy and fairness, it really does not matter much that "who" runs this DS. As long as there is one particular DS group satisfy your need of interest and criteria for proper rules, you can always join one to manage this DS together with other members.  
 
 ## Participate Events
-JBB.ONE is constantly hosting events to incite content co-creations. Typically, the event will be posted on the frontpage of ONE World co-creation platform and official channels will also broadcast the event news.
-The ongoing events——Sailing Program: https://www.jbb.one/en/article/1193559730.html
-More welcome events for DS ecosystem joining is currently on schedule.
+JBB.ONE is constantly hosting events to incite content co-creations. Typically, the event will be posted on the frontpage of ONE World co-creation platform and official channels will also broadcast the event news.  
+The ongoing events——Sailing Program: https://www.jbb.one/en/article/1193559730.html  
+More welcome events for DS ecosystem joining is currently on schedule.  
 
 # Relevant Modules and Links
